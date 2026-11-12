@@ -1,0 +1,10 @@
+{
+  "best_eval": 2122.0,
+  "train_minutes": 140.03794942299524,
+  "rollout_mean": 1991.44,
+  "rollout_std": 605.3206806313493,
+  "rollout_min": 360.0,
+  "rollout_max": 4880.0,
+  "rollout_n": 500,
+  "frac_500": null
+}
