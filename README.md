@@ -30,3 +30,8 @@ Each run writes metrics.csv, results.json and the figures into its folder under 
 - `pacman_s0`: first 500-episode test run of MsPacman (also gives the random baseline).
 - `ablations`: CartPole ablation runs and summary.json.
 - Logs: `test_output.txt`, `pacman_log.txt`, `pacman_long_s*.log`, `cp1.log`, `cp2.log`, `cp3.log`, `abl_log.txt`.
+
+## MsPacman checks
+- Q vs return: `python pacman_q_check.py --run runs/pacman_long_s0 --episodes 20` (seeds 0, 1, 2)
+- Parameter changes: the 500-episode command with one change, `--target_update 1`, `--buffer_size 32 --learn_start 32`, or `--gamma 0.9`
+- Results: `runs/pacman_abl_no_target`, `runs/pacman_abl_no_replay`, `runs/pacman_abl_gamma09`
