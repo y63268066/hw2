@@ -1,0 +1,38 @@
+nohup: ignoring input
+done baseline 0
+done baseline 1
+done no_target_net 0
+done no_target_net 1
+done no_replay 0
+done no_replay 1
+done gamma_0.5 0
+done gamma_0.5 1
+done lr_1e-2 0
+done lr_1e-2 1
+{
+  "baseline": {
+    "final_MA100_reward": 140.14,
+    "final_max_Q": 20.562145757675168,
+    "prediction": "solves CartPole; max Q -> ~20"
+  },
+  "no_target_net": {
+    "final_MA100_reward": 11.715,
+    "final_max_Q": 125492.38398437502,
+    "prediction": "less stable / slower; larger Q oscillations"
+  },
+  "no_replay": {
+    "final_MA100_reward": 121.89999999999999,
+    "final_max_Q": 20.02964844703674,
+    "prediction": "highly correlated data -> unstable, worse"
+  },
+  "gamma_0.5": {
+    "final_MA100_reward": 143.565,
+    "final_max_Q": 2.0781638860702514,
+    "prediction": "max Q -> 1/(1-0.5) = 2 (return limit changes accordingly)"
+  },
+  "lr_1e-2": {
+    "final_MA100_reward": 68.595,
+    "final_max_Q": 19.16589722633362,
+    "prediction": "too large step size -> unstable"
+  }
+}

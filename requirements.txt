@@ -1,0 +1,5 @@
+torch
+numpy
+matplotlib
+gymnasium[classic-control]>=1.0
+ale-py>=0.9   # ships the Atari ROMs; provides ALE/MsPacman-v5

@@ -1,0 +1,8 @@
+{
+  "ckpt": "runs/pacman_s0/best.pt",
+  "rollout_mean": 779.0,
+  "rollout_std": 401.19945164469004,
+  "rollout_n": 500,
+  "random_mean": 280.0,
+  "random_std": 131.60547101089682
+}

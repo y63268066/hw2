@@ -1,0 +1,73 @@
+nohup: ignoring input
+[cartpole s1] ep 10/600 step 272 R 17 MA100 27.2 maxQ 0.01 eps 0.947 best_eval 9.2 0s
+[cartpole s1] ep 20/600 step 459 R 34 MA100 22.9 maxQ 0.11 eps 0.910 best_eval 9.2 0s
+[cartpole s1] ep 30/600 step 701 R 27 MA100 23.4 maxQ 0.13 eps 0.863 best_eval 9.7 0s
+[cartpole s1] ep 40/600 step 904 R 30 MA100 22.6 maxQ 0.10 eps 0.823 best_eval 9.7 1s
+[cartpole s1] ep 50/600 step 1057 R 15 MA100 21.1 maxQ 1.32 eps 0.793 best_eval 11.4 1s
+[cartpole s1] ep 60/600 step 1233 R 15 MA100 20.6 maxQ 1.78 eps 0.759 best_eval 11.4 1s
+[cartpole s1] ep 70/600 step 1424 R 18 MA100 20.3 maxQ 2.65 eps 0.721 best_eval 11.4 2s
+[cartpole s1] ep 80/600 step 1610 R 19 MA100 20.1 maxQ 3.41 eps 0.685 best_eval 76.6 3s
+[cartpole s1] ep 90/600 step 2026 R 38 MA100 22.5 maxQ 5.19 eps 0.603 best_eval 500.0 7s
+[cartpole s1] ep 100/600 step 2762 R 153 MA100 27.6 maxQ 7.76 eps 0.459 best_eval 500.0 13s
+[cartpole s1] ep 110/600 step 4233 R 220 MA100 39.6 maxQ 11.79 eps 0.171 best_eval 500.0 22s
+[cartpole s1] ep 120/600 step 6246 R 144 MA100 57.9 maxQ 17.45 eps 0.020 best_eval 500.0 35s
+[cartpole s1] ep 130/600 step 8620 R 112 MA100 79.2 maxQ 19.17 eps 0.020 best_eval 500.0 49s
+[cartpole s1] ep 140/600 step 9619 R 77 MA100 87.2 maxQ 19.53 eps 0.020 best_eval 500.0 53s
+[cartpole s1] ep 150/600 step 10625 R 102 MA100 95.7 maxQ 20.19 eps 0.020 best_eval 500.0 58s
+[cartpole s1] ep 160/600 step 11771 R 129 MA100 105.4 maxQ 20.52 eps 0.020 best_eval 500.0 65s
+[cartpole s1] ep 170/600 step 13295 R 251 MA100 118.7 maxQ 19.87 eps 0.020 best_eval 500.0 73s
+[cartpole s1] ep 180/600 step 14600 R 110 MA100 129.9 maxQ 20.66 eps 0.020 best_eval 500.0 80s
+[cartpole s1] ep 190/600 step 15971 R 107 MA100 139.4 maxQ 20.65 eps 0.020 best_eval 500.0 89s
+[cartpole s1] ep 200/600 step 17480 R 133 MA100 147.2 maxQ 20.58 eps 0.020 best_eval 500.0 99s
+[cartpole s1] ep 210/600 step 19003 R 186 MA100 147.7 maxQ 20.72 eps 0.020 best_eval 500.0 107s
+[cartpole s1] ep 220/600 step 20489 R 115 MA100 142.4 maxQ 20.84 eps 0.020 best_eval 500.0 117s
+[cartpole s1] ep 230/600 step 22308 R 127 MA100 136.9 maxQ 20.44 eps 0.020 best_eval 500.0 131s
+[cartpole s1] ep 240/600 step 23973 R 205 MA100 143.5 maxQ 20.71 eps 0.020 best_eval 500.0 140s
+[cartpole s1] ep 250/600 step 25615 R 184 MA100 149.9 maxQ 20.54 eps 0.020 best_eval 500.0 151s
+[cartpole s1] ep 260/600 step 27142 R 148 MA100 153.7 maxQ 20.47 eps 0.020 best_eval 500.0 161s
+[cartpole s1] ep 270/600 step 29208 R 133 MA100 159.1 maxQ 20.53 eps 0.020 best_eval 500.0 176s
+[cartpole s1] ep 280/600 step 30793 R 190 MA100 161.9 maxQ 20.47 eps 0.020 best_eval 500.0 187s
+[cartpole s1] ep 290/600 step 32782 R 180 MA100 168.1 maxQ 20.41 eps 0.020 best_eval 500.0 200s
+[cartpole s1] ep 300/600 step 34468 R 180 MA100 169.9 maxQ 20.42 eps 0.020 best_eval 500.0 214s
+[cartpole s1] ep 310/600 step 35886 R 129 MA100 168.8 maxQ 20.38 eps 0.020 best_eval 500.0 229s
+[cartpole s1] ep 320/600 step 37749 R 159 MA100 172.6 maxQ 20.37 eps 0.020 best_eval 500.0 236s
+[cartpole s1] ep 330/600 step 39812 R 152 MA100 175.0 maxQ 20.48 eps 0.020 best_eval 500.0 249s
+[cartpole s1] ep 340/600 step 41745 R 235 MA100 177.7 maxQ 20.57 eps 0.020 best_eval 500.0 261s
+[cartpole s1] ep 350/600 step 43737 R 111 MA100 181.2 maxQ 20.41 eps 0.020 best_eval 500.0 272s
+[cartpole s1] ep 360/600 step 45385 R 157 MA100 182.4 maxQ 20.28 eps 0.020 best_eval 500.0 283s
+[cartpole s1] ep 370/600 step 47187 R 126 MA100 179.8 maxQ 20.30 eps 0.020 best_eval 500.0 290s
+[cartpole s1] ep 380/600 step 49069 R 213 MA100 182.8 maxQ 20.47 eps 0.020 best_eval 500.0 298s
+[cartpole s1] ep 390/600 step 50761 R 143 MA100 179.8 maxQ 20.37 eps 0.020 best_eval 500.0 308s
+[cartpole s1] ep 400/600 step 53159 R 205 MA100 186.9 maxQ 20.37 eps 0.020 best_eval 500.0 323s
+[cartpole s1] ep 410/600 step 56000 R 394 MA100 201.1 maxQ 20.43 eps 0.020 best_eval 500.0 338s
+[cartpole s1] ep 420/600 step 58601 R 465 MA100 208.5 maxQ 20.59 eps 0.020 best_eval 500.0 353s
+[cartpole s1] ep 430/600 step 60603 R 356 MA100 207.9 maxQ 20.43 eps 0.020 best_eval 500.0 363s
+[cartpole s1] ep 440/600 step 63061 R 500 MA100 213.2 maxQ 20.50 eps 0.020 best_eval 500.0 373s
+[cartpole s1] ep 450/600 step 65469 R 163 MA100 217.3 maxQ 20.34 eps 0.020 best_eval 500.0 385s
+[cartpole s1] ep 460/600 step 67786 R 282 MA100 224.0 maxQ 20.32 eps 0.020 best_eval 500.0 394s
+[cartpole s1] ep 470/600 step 69832 R 235 MA100 226.4 maxQ 20.31 eps 0.020 best_eval 500.0 402s
+[cartpole s1] ep 480/600 step 72631 R 352 MA100 235.6 maxQ 20.34 eps 0.020 best_eval 500.0 414s
+[cartpole s1] ep 490/600 step 75325 R 57 MA100 245.6 maxQ 20.20 eps 0.020 best_eval 500.0 427s
+[cartpole s1] ep 500/600 step 77451 R 52 MA100 242.9 maxQ 20.20 eps 0.020 best_eval 500.0 438s
+[cartpole s1] ep 510/600 step 80969 R 272 MA100 249.7 maxQ 20.19 eps 0.020 best_eval 500.0 455s
+[cartpole s1] ep 520/600 step 83620 R 229 MA100 250.2 maxQ 20.28 eps 0.020 best_eval 500.0 467s
+[cartpole s1] ep 530/600 step 86585 R 500 MA100 259.8 maxQ 20.27 eps 0.020 best_eval 500.0 484s
+[cartpole s1] ep 540/600 step 89596 R 500 MA100 265.4 maxQ 20.40 eps 0.020 best_eval 500.0 501s
+[cartpole s1] ep 550/600 step 92924 R 500 MA100 274.6 maxQ 20.34 eps 0.020 best_eval 500.0 521s
+[cartpole s1] ep 560/600 step 96733 R 195 MA100 289.5 maxQ 20.17 eps 0.020 best_eval 500.0 543s
+[cartpole s1] ep 570/600 step 100247 R 119 MA100 304.1 maxQ 20.13 eps 0.020 best_eval 500.0 561s
+[cartpole s1] ep 580/600 step 103093 R 302 MA100 304.6 maxQ 20.18 eps 0.020 best_eval 500.0 574s
+[cartpole s1] ep 590/600 step 106206 R 338 MA100 308.8 maxQ 20.23 eps 0.020 best_eval 500.0 590s
+[cartpole s1] ep 600/600 step 109987 R 500 MA100 325.4 maxQ 20.25 eps 0.020 best_eval 500.0 612s
+/nfs/home/bxl3194/dqn_hw2/plots.py:87: UserWarning: No contour levels were found within the data range.
+  ax.contour(np.linspace(-.21, .21, d["gap"][i].shape[1]), np.linspace(-2, 2, d["gap"][i].shape[0]),
+{
+  "best_eval": 500.0,
+  "train_minutes": 10.201204967498779,
+  "rollout_mean": 500.0,
+  "rollout_std": 0.0,
+  "rollout_min": 500.0,
+  "rollout_max": 500.0,
+  "rollout_n": 500,
+  "frac_500": 1.0
+}
