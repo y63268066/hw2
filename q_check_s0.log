@@ -1,0 +1,13 @@
+A.L.E: Arcade Learning Environment (version 0.11.2+ecc1138)
+[Powered by Stella]
+{
+  "checkpoint": "best",
+  "episodes": 20,
+  "n_states": 17570,
+  "mean_score": 1927.5,
+  "mean_Q": 14.379578493804367,
+  "mean_G": 12.486878162879288,
+  "bias": 1.8927003309250807,
+  "rmse": 7.026515704547561,
+  "correlation": 0.6987841105427337
+}
